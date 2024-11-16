@@ -8,3 +8,6 @@ My data science and analytics projects
 3. R programming - Rock Paper Scissors
 4. Looker GA4 Dashboard
 5. Linear Regression model using caret
+
+## Contact Me
+Please feel free to reach out at pimonpat.mim@gmail.com
